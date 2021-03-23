@@ -1,0 +1,13 @@
+scipy==1.4.1
+implicit==0.4.4
+scikit-learn==0.22.1
+numpy==1.19.5
+pandas==1.0.1
+pyathena==2.0.0
+requests==2.22.0
+boto3==1.16.19
+s3fs==0.4.2
+pytest==3.10
+pytest-check==0.3.9
+tensorflow==2.4.0
+tensorflow_hub==0.11.0
